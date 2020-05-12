@@ -1,2 +1,2 @@
 # slides
-A place to hold past slide decks
+A place to hold past slide decks.
